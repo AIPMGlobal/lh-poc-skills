@@ -1,0 +1,135 @@
+{
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "inchWidth": 13.333333,
+    "inchHeight": 7.5
+  },
+  "font": "맑은 고딕",
+  "colors": {
+    "background": "FFFFFF",
+    "primary": "005DA4",
+    "title": "0B3A8A",
+    "body": "1F2937",
+    "muted": "636466",
+    "line": "D5DEE8",
+    "light": "EEF5FB",
+    "barStart": "0080C0",
+    "barEnd": "3CBFFF",
+    "green": "71BF44",
+    "orange": "F36F21",
+    "alert": "E51E2C"
+  },
+  "colorSources": {
+    "primary, muted, green, orange": "LH 슬로건 이미지(희망을 위한 LH의 약속, Life with Hope)의 실제 색",
+    "title": "LH 로고의 남색",
+    "barStart, barEnd": "LH 권장양식 표지가 있는 보고서(푸른색)의 제목 띠 색",
+    "alert": "LH 권장양식(붉은색)의 띠 색. 문제와 경고에만 사용",
+    "body, line, light": "위 색에 맞춰 고른 본문과 바탕 색"
+  },
+  "assets": {
+    "slogan": "lh-slogan.png",
+    "logo": "lh-logo.png",
+    "bar": "lh-bar-blue.png"
+  },
+  "margin": 64,
+  "header": {
+    "x": 64,
+    "y": 30,
+    "w": 900,
+    "h": 30,
+    "size": 18
+  },
+  "title": {
+    "x": 64,
+    "y": 66,
+    "w": 1036,
+    "h": 64,
+    "size": 40
+  },
+  "titleBar": {
+    "x": 64,
+    "y": 138,
+    "w": 1152,
+    "h": 5
+  },
+  "logo": {
+    "x": 1118,
+    "y": 24,
+    "w": 98,
+    "h": 65
+  },
+  "body": {
+    "x": 64,
+    "y": 172,
+    "w": 1152,
+    "h": 476,
+    "size": 26
+  },
+  "footer": {
+    "x": 916,
+    "y": 668,
+    "w": 300,
+    "h": 24,
+    "size": 15
+  },
+  "bullets": {
+    "marks": [
+      "□",
+      "ㅇ",
+      "-",
+      "*"
+    ],
+    "indent": [
+      0,
+      34,
+      68,
+      68
+    ],
+    "size": [
+      28,
+      25,
+      22,
+      20
+    ],
+    "gapBefore": [
+      16,
+      8,
+      4,
+      3
+    ]
+  },
+  "roles": {
+    "code": {
+      "name": "코드 (규칙, 계산)",
+      "fill": "E3EEF7",
+      "line": "005DA4",
+      "text": "005DA4"
+    },
+    "ai": {
+      "name": "AI (읽고 쓰기)",
+      "fill": "E8F5DF",
+      "line": "71BF44",
+      "text": "3F7D1F"
+    },
+    "human": {
+      "name": "사람 (판단, 승인)",
+      "fill": "FDEBDD",
+      "line": "F36F21",
+      "text": "B4500F"
+    },
+    "data": {
+      "name": "자료, 산출물",
+      "fill": "F1F2F3",
+      "line": "9A9C9F",
+      "text": "636466"
+    }
+  },
+  "source": {
+    "x": 64,
+    "y": 668,
+    "w": 860,
+    "h": 24,
+    "size": 15
+  }
+}
